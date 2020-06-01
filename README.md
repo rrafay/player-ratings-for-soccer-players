@@ -11,7 +11,7 @@ The ratings are evaluated with the [Who Scored Ratings](https://www.whoscored.co
 To check how valid my calculated player ratings are, the correlation is calculated between the calculated ratings and the whoscored ratings. 
 
 ### Results
-The correlation between whoscored player ratings and my player rating method is 0.68 which means that the two rating methods are closely related. More information can be found in my final year project [here](https://docs.google.com/document/d/1uximB8PYCJrTc2FQK19VJEl_H4emV4H15qRyUUM3LS8/edit?usp=sharing).
+The correlation between whoscored player ratings and my player rating method is 0.68 which means that the two rating methods are closely related. More information can be found in my final year paper [here](https://docs.google.com/document/d/1uximB8PYCJrTc2FQK19VJEl_H4emV4H15qRyUUM3LS8/edit?usp=sharing).
 
 
 
